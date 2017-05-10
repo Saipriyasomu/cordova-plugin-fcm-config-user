@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "399542835092",
-    "firebase_url": "https://howorkforce-78cdd.firebaseio.com",
-    "project_id": "howorkforce-78cdd",
-    "storage_bucket": "howorkforce-78cdd.appspot.com"
+    "project_number": "7754342974",
+    "firebase_url": "https://pickmyboyfriend.firebaseio.com",
+    "project_id": "pickmyboyfriend",
+    "storage_bucket": "pickmyboyfriend.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:399542835092:android:6d4efcbe5300bf64",
+        "mobilesdk_app_id": "1:7754342974:android:d394ffc00721bd43",
         "android_client_info": {
-          "package_name": "com.hubofwallet.Howork.Force"
+          "package_name": "com.pickmybf.www"
         }
       },
       "oauth_client": [
         {
-          "client_id": "399542835092-cuel476pnbqsv52bhr9uqbn7obql3goo.apps.googleusercontent.com",
+          "client_id": "7754342974-q43viagsb3jp09chcbtkpl3ovetu2gvp.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAwWWllg3hCGVnmbvbwrnYjEBLMgPE3Shs"
+          "current_key": "AIzaSyAV2Gm5xggUOHNor7rRFAJiswXaLSiHjs8"
         }
       ],
       "services": {
